@@ -1,0 +1,30 @@
+body {
+	background-image: url(../../assets/images/fresh_snow.png);
+	font-family: 'Monda', sans-serif;
+	font-size: 16px;
+}
+
+h1, h2, h3, p {
+	margin: 25px;
+}
+
+h1, h2, h3 {
+	color: #8eceff;
+}
+
+h3 {
+	font-size: 16px;
+	text-align: center;
+}
+
+/* main */
+
+#bio-image {
+	float: left;
+	width: 100%;
+	height: auto;
+}
+
+.icon-image {
+	width: 100%;
+}
